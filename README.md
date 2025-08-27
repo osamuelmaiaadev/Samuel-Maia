@@ -1,7 +1,7 @@
 # Olá, eu sou Samuel
-- 👨🏾‍🎓Estudante de ADS no SENAC-DF
-- ⚽Gestor do projeto SyncSoma 
+- 👨🏾‍🎓Estudante de ADS no SENAC-DF 
 - 💻Aberto a novos conhecimentos
+- 💼Em Busca de uma oportunidade no mercado de trabalho
  <div style="display: inline_block">
   <br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
